@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Masked_skii
+- 👀 I’m interested in coding, gaming, reverse engineering and music.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on websites, games and reverse engineering projects.
