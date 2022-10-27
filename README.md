@@ -4,3 +4,5 @@
 - 💞️ I’m looking to collaborate on websites, games and reverse engineering projects.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaskedSkii)](https://github.com/anuraghazra/github-readme-stats)
+
+[![obtusity's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaskedSkii)](https://github.com/anuraghazra/github-readme-stats)
