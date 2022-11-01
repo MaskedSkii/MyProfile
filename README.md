@@ -2,7 +2,7 @@ Yo I'm MaskedSkii and I'm a programmer in C#, C++ and Visual Basic and I script/
 
 ## Most recent song played on Spotify
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=Ski_kid420&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=Ski_kid420&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right" width="306" > </a>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=123simon4&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=123simon4&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right" width="306" > </a>
 
 ## Statistics
 
